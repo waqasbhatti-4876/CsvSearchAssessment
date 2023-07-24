@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "skMYYdHsyRIYLyBloHsIJrtBMHdVA1DWIj3T+nBRKbn/iOIwMETaV5Cczr1r/4B+ETaRO2WviwYNE22Pi94K2Q==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetprojects\\CsvSearchAssessment\\searchAssessment\\searchAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
